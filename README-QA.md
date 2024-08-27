@@ -9,7 +9,7 @@
           Tạo một adapter mới trong Mina Wallet Adapter để quản lý các thao tác API đến API mới    
      + Bước 3: Tích hợp UI       
           Tạo các thành phần UI cần thiết để người dùng tương tác với ví thông qua API mới. Sử dụng các hook và component của Mina Wallet Adapter.       
-==> More detail and run exmaple: [https://github.com/lehongvo/MinaDoc/blob/main/README.md](https://github.com/lehongvo/MinaDoc/blob/main/README-AURO.md)
+==> More detail and run example: [https://github.com/lehongvo/MinaDoc/blob/main/README.md](https://github.com/lehongvo/MinaDoc/blob/main/README-AURO.md)
 
 ## Quá trình tạo bằng chứng zk-SNARK (zk-SNARK Proof Generation)
 1. Xây dựng mạch zk-SNARK:
@@ -33,4 +33,4 @@
      * Mina Protocol có tích hợp sẵn các công cụ zk-SNARK giúp bạn dễ dàng tạo và xác minh bằng chứng trong ứng dụng zkApp.
      * Sử dụng o1js để tạo các mạch zk-SNARK phức tạp và tích hợp các tính năng như Nullifier và Expiration để đảm bảo bảo mật.
 
-==> More detail and run exmaple: [https://github.com/lehongvo/MinaDoc/blob/main/README-SNARK.md](https://github.com/lehongvo/MinaDoc/blob/main/README-SNARK.md)
+==> More detail and run example: [https://github.com/lehongvo/MinaDoc/blob/main/README-SNARK.md](https://github.com/lehongvo/MinaDoc/blob/main/README-SNARK.md)
