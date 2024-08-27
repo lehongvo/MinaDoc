@@ -56,8 +56,6 @@
     - Ví dụ
 
       ```javascript
-
-
       import { WalletAdapter } from "mina-wallet-adapter-core";
       export class MyNewAPIAdapter extends WalletAdapter {
       constructor() {
@@ -75,12 +73,7 @@
            async signTransaction(tx) {
                // Logic ký giao dịch
            }
-      ```
-
     }
-
-    ```
-
     ```
 
 3.  **Thêm Adapter vào hệ thống**:
